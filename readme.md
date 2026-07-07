@@ -63,4 +63,4 @@ CREATE TABLE `shd_zjmf_pushhost` (
 
 ## 许可证
 
-[MIT](./LICENSE)
+[MIT](https://github.com/chuzhongyun/zjmf-pushhost-fix/blob/main/LICENSE)
