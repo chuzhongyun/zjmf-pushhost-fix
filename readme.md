@@ -61,3 +61,6 @@ CREATE TABLE `shd_zjmf_pushhost` (
 - 原补丁作者：[迷你哆云](https://www.miniduo.cn)
 - 原仓库：[M1niduo/zjmf-pushhost-fix](https://github.com/M1niduo/zjmf-pushhost-fix)
 
+## 许可证
+
+[MIT](./LICENSE)
